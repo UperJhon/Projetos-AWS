@@ -1,0 +1,21 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+Data: 22/08/202 Empresa: Abstergo Industries Responsável: Jonathan Silva Nascimento
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Jonathan Silva Nascimento. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
+
+Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
+
+Medida 1: - Utilização do Identity Access Management (IAM) para  a liberação de acesso aos usuários na plataforma AWS e manter o nível de granularização das permissões, evitando 
+
+Medida 2: - Utilização do WAF com integração de AWS Shield fazendo a proteção na camada 7, 3 e 4 do sistema para proteção contra ataques SQLi, XSS, DDoS.
+
+Medida 3: - Utilização do Amazon GuardDuty para monitorar as fontes de dados e detectar vunerabilidades no ambiente AWS deixando o cliente ciente de melhorias a serem realizadas, deixando o ambiente mais seguro.
+
+Conclusão
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado a proteção de toda arquitetura, tanto para os funcionários que acessarão o sistema para desenvolver o trabalho interno como contra requisições maliciosas, o que aumentará a eficiência e a produtividade da empresa uma vez que o próprio sistema da AWS realizará o trabalho após as confikgurações da empresa no sistema. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+Assinatura do Responsável pelo Projeto: Jonathan Silva Nascimento
+
+Jonathan Silva Nascimento
